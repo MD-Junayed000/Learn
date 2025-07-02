@@ -1,3 +1,7 @@
+
+<img src="System.png" alt="Implementation Diagram" width="1000">
+
+
 # Calendar MCP Server
 
 An MCP (Model Context Protocol) server that provides calendar integration for Cursor.
